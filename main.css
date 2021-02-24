@@ -1,0 +1,7 @@
+h1 {color: #F0F0F0; text-shadow: 2px 2px 4px #000000;}
+h2 {color: #F0F0F0; text-shadow: 2px 2px 4px #000000;}
+h3 {color: #F0F0F0; text-shadow: 2px 2px 4px #000000;}
+p {color: white;}
+body {background-color:#669cff; color:white; font-family:Verdana;}
+div {width:200px; border:solid 12px #9ab9e6; padding:10px; float:left; margin-right:22px; margin-bottom:10px; box-shadow: 10px 10px 5px #696969;}
+img {width:200px; border-radius:10px;}
